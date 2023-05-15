@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Eron&#39;s Diary</title>
+        <link>/posts/</link>
+        <description>All Posts | Eron&#39;s Diary</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>eronwuwu@gmail.com (eron)</managingEditor>
+            <webMaster>eronwuwu@gmail.com (eron)</webMaster><lastBuildDate>Tue, 16 May 2023 01:29:35 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Self_introduction</title>
+    <link>/posts/self_introduction/</link>
+    <pubDate>Tue, 16 May 2023 01:29:35 &#43;0800</pubDate>
+    <author>eron</author>
+    <guid>/posts/self_introduction/</guid>
+    <description><![CDATA[是我，为了讨前女友开心把日记本给当面丢了的我，差点也丢了我自己。]]></description>
+</item>
+</channel>
+</rss>
